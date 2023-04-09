@@ -1,0 +1,13 @@
+q1:O(N + M) time, O(1) space 
+
+
+q2:O(N*N) 
+
+
+q3:O(nLogn) 
+
+
+q4:O(log N)
+
+
+q5:O(logk n)
